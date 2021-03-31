@@ -1,6 +1,7 @@
-### Hi there 👋
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hoit1302&count_private=true&show_icons=true&theme=dracula&show_owner=false&bg_color=30,282A36,4D5261)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
+525867
 **hoit1302/hoit1302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
